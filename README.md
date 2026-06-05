@@ -116,8 +116,8 @@ ORDER BY i.fecha_registro DESC;
 
 ## 👤 Autor
 
-- **[Tu Nombre Aquí]**
-- [Tu Enlace a LinkedIn o Email]
+- **Cristian Uriel Martinez Galindo**
+- uriel195320@gmail.com
 
 ---
 
